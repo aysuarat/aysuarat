@@ -1,4 +1,4 @@
-### Hi there, I'm Aysu Arat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there, I'm Aysu Arat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img width="35%" height="250px" align="right" alt="Github" src="https://webstockreview.net/images/planets-clipart-animation-8.gif"/>
 
 ### 💫 About Me
